@@ -1,0 +1,108 @@
+
+/*//////////////HEADER///////////////
+////////////////////////////////////*/
+
+header {
+    background-image: url("https://images.unsplash.com/photo-1558900493-3b6cc10d7aff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1275&q=80");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(22, 22, 59);
+    padding: 20px;
+}
+
+header h2 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+header img {
+    border-radius: 50%;
+    float:  left;
+    margin-right: 15px;  
+}
+
+h2 {
+    color: brown;
+}
+
+h4 {
+    color:black
+}
+
+.largecanele {
+    width: 75px;
+    height: 75px;
+    float: left;
+    padding: 0 20px 20px 0;
+    }
+
+nav a{ 
+    margin-right: 15px;
+    font-family: Verdana, Tahoma, sans-serif;
+    /*background: rgb(92, 92, 163);
+    opacity: .7;
+    padding:    5px 10px;*/
+    color: rgb(22, 22, 59);
+}
+
+nav ul {
+    list-style: none;
+    background-color: bisque;
+    padding: 15px;
+    margin-top: 0;
+    text-align: center;
+}
+nav li {
+    display: inline;
+}
+
+li {
+    /*display: inline;*/
+    font-size: 24px;
+    margin: 8px;
+    }
+/*/////////////BODY///////////
+/////////////////////////////*/
+
+body {
+    background-color: beige;
+}
+
+
+/*///////////SECTION///////////
+///////////////////////////////*/
+
+
+#section1, #section2, #section3 {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+/*
+.recipe, .ingredients, .instructions {
+    */
+
+
+.image-wrapper {
+    border: 5px solid rgb(153, 69, 69);
+    max-width: 200px;
+}
+
+.img2 {
+        size: 25px;
+        border-radius: 3px;
+        float: left;    
+    }
+
+
+/*////////////////////////////
+///////////FOOTER////////////
+/////////////////////////////*/
+
+footer {
+float:left;
+color: rgb(179, 18, 18);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}    
